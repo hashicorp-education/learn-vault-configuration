@@ -1,6 +1,6 @@
 provider "postgresql" {
   # Configuration options
-  scheme          = "postgresql"
+  scheme          = "postgres"
   host            = "localhost"
   port            = 5432
   database        = "postgres"
