@@ -23,7 +23,7 @@ resource "kubernetes_secret_v1" "vault-auth-service-account-token" {
       "kubernetes.io/service-account.name" = kubernetes_service_account_v1.vault-auth-service-account.metadata.0.name
     }
 
-    name = "vault-auth-service-account-token-"
+    name = "vault-auth-service-account-token"
   }
 
   type                           = "kubernetes.io/service-account-token"
