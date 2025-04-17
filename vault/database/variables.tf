@@ -1,0 +1,1 @@
+variable "POSTGRES_URL" { type = string }
