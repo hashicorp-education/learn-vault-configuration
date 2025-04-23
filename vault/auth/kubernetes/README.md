@@ -1,0 +1,1 @@
+Assumes `/kubernetes/vault-auth-method` configuration was applied to the Kuberntes cluster and environment variables for the Vault Kubernetes SA token and certificate have been exported as environment variable.s
