@@ -1,4 +1,4 @@
-Requires variable set for Vault container address.
+Requires VSO to be [deployed](https://github.com/hashicorp-education/learn-vault-infrastructure/tree/main/vso), and variable set for Vault container address.
 
 **Example:**
 
